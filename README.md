@@ -1,3 +1,5 @@
-# PRL3_Metastasis
+# PRL3_Map_Structural_Analysis
 
-Coming soon
+Workflow used to identify the pathways which regulate various phenotypes that lead to metastasis.
+
+

@@ -1,5 +1,4 @@
 # PRL3 Map Structural Analysis
 
-Workflow used to identify the pathways which regulate various phenotypes that lead to metastasis.
-
+[Workflow](./PRL3_Structural_Analysis.pdf) used to identify the pathways which regulate various phenotypes that lead to metastasis.
 
